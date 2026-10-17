@@ -1,7 +1,6 @@
 # noctalia-qs
 
-**noctalia-qs** is a custom fork of [Quickshell](https://quickshell.org) — a flexible QtQuick-based desktop shell toolkit for Wayland. It serves as the shell framework powering [Noctalia Shell](https://github.com/noctalia-dev/noctalia-shell).
-
+**noctalia-qs** is a custom fork of [Quickshell](https://quickshell.org) — a flexible QtQuick-based desktop shell toolkit for Wayland. It serves as the shell framework powering [Noctalia Shell](https://github.com/noctalia-dev/noctalia-shell). Now Maintainced by [MinhCreatorVN](https://github.com/MinhCreator)
 ## What is noctalia-qs?
 
 noctalia-qs extends Quickshell with features and patches specific to the Noctalia shell ecosystem, including:
